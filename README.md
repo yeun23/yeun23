@@ -1,4 +1,8 @@
-## Hi 👋
+## Hi there👋
+
+Name: SUYEON CHO
+Age: 21
+Major: Artificial intelligence
 
 <!--
 **yeun23/yeun23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
